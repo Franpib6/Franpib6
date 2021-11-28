@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Franpib6
+- 👀 I’m interested in learn about code.
+- 🌱 I’m currently learning to code on javascript.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me: franpib6@gmail.com
