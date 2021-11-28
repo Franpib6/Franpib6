@@ -1,5 +1,5 @@
-<li> 👋 Hi, I’m @Franpib6
-<li> 👀 I’m interested in learn about code.
+<h6> 👋 Hi, I’m @Franpib6 </h6>
+<li> 👀 I’m interested about learning code.
 <li> 🌱 I’m currently learning to code on HTML5.
 <li> 💞️ I’m not looking to collaborate.
 <li> 🇪🇸 I’m spanish and I live in Spain. But I have an english level of B2.
